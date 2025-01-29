@@ -20,22 +20,6 @@
 
 ## Setup
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/nodeboy69/unibot.git
-   cd unichbot
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Setup: input token token tokens.txt
-   ```bash
-   nano tokens.txt
-   ```
-4. Run The Script:
-   ```bash
-   npm run start
    ```
 
 
